@@ -10,6 +10,6 @@ public class Main {
         System.out.println("Nombre: " + name);
         System.out.println("Edad: " + edad);
         System.out.println("Altura: " + altura);
-
+//prueba realizadas con exito
     }
 }
